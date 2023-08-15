@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Aug 12 17:11:46 2022
+Last modified Aug 14 2023
 
-@author: JeanM
+@author: Jorge Blanco
 """
 
 
